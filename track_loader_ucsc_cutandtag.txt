@@ -1,6 +1,6 @@
 hub hg38
 shortLabel hg38_cutandtag
-longLabel hg38 cutandtag
+longLabel hg38_cutandtag
 useOneFile on
 email ritish.ayyalusamy@gu.se
 

@@ -13,7 +13,7 @@ visibility full
 color 0,128,128
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/01_BE2_DMSO_H3K27ac_S1_bowtie2_raw.bw
+bigDataUrl https://export.uppmax.uu.se/naiss2023-22-153/cutandtag/01_BE2_DMSO_H3K27ac_S1_bowtie2_raw.bw
 
 track BE2_DMSO_H3K27me3_S2
 shortLabel BE2_DMSO_H3K27me3

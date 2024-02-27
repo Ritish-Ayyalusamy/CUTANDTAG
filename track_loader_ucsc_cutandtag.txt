@@ -1,8 +1,8 @@
 hub cutandtagSAP
-shortLabel hg38_cutandtag
-longLabel hg38_cutandtag in BE2_DMSO_STM tNCC SAP +- Dox
+shortLabel hg38.p14_cutandtag
+longLabel hg38.p14_cutandtag in BE2_DMSO_STM tNCC SAP +- Dox
 useOneFile on
-email ritish.ayyalusamy@gu.se
+email napbonish@outlook.com
 
 genome hg38
 

@@ -14,3 +14,426 @@ color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/01_BE2_DMSO_H3K27ac_S1_bowtie2_raw.bw
+
+track BE2_DMSO_H3K27me3_S2
+shortLabel BE2_DMSO_H3K27me3
+longLabel BE2_DMSO_H3K27me3
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/02_BE2_DMSO_H3K27me3_S2_bowtie2_raw.bw
+
+track BE2_DMSO_RNA_pol_II_S3
+shortLabel BE2_DMSO_RNA_pol_II
+longLabel BE2_DMSO_RNA_pol_II
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/03_BE2_DMSO_RNA_pol_II_S3_bowtie2_raw.bw
+
+track BE2_DMSO_Rloop_1_S4
+shortLabel BE2_DMSO_Rloop_1
+longLabel BE2_DMSO_Rloop_1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/04_BE2_DMSO_Rloop_1_S4_bowtie2_raw.bw
+
+track BE2_DMSO_Rloop_2_S5
+shortLabel BE2_DMSO_Rloop_2
+longLabel BE2_DMSO_Rloop_2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/05_BE2_DMSO_Rloop_2_S5_bowtie2_raw.bw
+
+track BE2_DMSO_IgG_S6
+shortLabel BE2_DMSO_IgG
+longLabel BE2_DMSO_IgG
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/06_BE2_DMSO_IgG_S6_bowtie2_raw.bw
+
+track BE2_STM2457_H3K27ac_S7
+shortLabel BE2_STM2457_H3K27ac
+longLabel BE2_STM2457_H3K27ac
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/07_BE2_STM2457_H3K27ac_S7_bowtie2_raw.bw
+
+track BE2_STM2457_H3K27me3_S8
+shortLabel BE2_STM2457_H3K27me3
+longLabel BE2_STM2457_H3K27me3
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/08_BE2_STM2457_H3K27me3_S8_bowtie2_raw.bw
+
+track BE2_STM2457_RNA_pol_II_S9
+shortLabel BE2_STM2457_RNA_pol_II
+longLabel BE2_STM2457_RNA_pol_II
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/09_BE2_STM2457_RNA_pol_II_S9_bowtie2_raw.bw
+
+track BE2_STM2457_Rloop_1_S10
+shortLabel BE2_STM2457_Rloop_1
+longLabel BE2_STM2457_Rloop_1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/10_BE2_STM2457_Rloop_1_S10_bowtie2_raw.bw
+
+track BE2_STM2457_Rloop_2_S11
+shortLabel BE2_STM2457_Rloop_2
+longLabel BE2_STM2457_Rloop_2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/11_BE2_STM2457_Rloop_2_S11_bowtie2_raw.bw
+
+track BE2_STM2457_IgG_S12
+shortLabel BE2_STM2457_IgG
+longLabel BE2_STM2457_IgG
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/12_BE2_STM2457_IgG_S12_bowtie2_raw.bw
+
+track tNCC_H3K27me3_Rep1_S13
+shortLabel tNCC_H3K27me3_Rep1
+longLabel tNCC_H3K27me3_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/13_tNCC_H3K27me3_Rep1_S13_bowtie2_raw.bw
+
+track tNCC_H3K79me2_Rep1_S14
+shortLabel tNCC_H3K79me2_Rep1
+longLabel tNCC_H3K79me2_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/14_tNCC_H3K79me2_Rep1_S14_bowtie2_raw.bw
+
+track tNCC_Roop_Rep1_S15
+shortLabel tNCC_Roop_Rep1
+longLabel tNCC_Roop_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/15_tNCC_Roop_Rep1_S15_bowtie2_raw.bw
+
+track tnCC_IgG_Rep1_S16
+shortLabel tnCC_IgG_Rep1
+longLabel tnCC_IgG_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/16_tnCC_IgG_Rep1_S16_bowtie2_raw.bw
+
+track tNCC_H3K27me3_Rep2_S17
+shortLabel tNCC_H3K27me3_Rep2
+longLabel tNCC_H3K27me3_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/17_tNCC_H3K27me3_Rep2_S17_bowtie2_raw.bw
+
+track tNCC_H3K79me2_Rep2_S18
+shortLabel tNCC_H3K79me2_Rep2
+longLabel tNCC_H3K79me2_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/18_tNCC_H3K79me2_Rep2_S18_bowtie2_raw.bw
+
+track tNCC_Roop_Rep2_S19
+shortLabel tNCC_Roop_Rep2
+longLabel tNCC_Roop_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/19_tNCC_Roop_Rep2_S19_bowtie2_raw.bw
+
+track tnCC_IgG_Rep2_S20
+shortLabel tnCC_IgG_Rep2
+longLabel tnCC_IgG_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/20_tnCC_IgG_Rep2_S20_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K27ac_Rep1_S21
+shortLabel SAP_minusDOX_H3K27ac_Rep1
+longLabel SAP_minusDOX_H3K27ac_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/21_SAP_minusDOX_H3K27ac_Rep1_S21_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K27me3_Rep1_S22
+shortLabel SAP_minusDOX_H3K27me3_Rep1
+longLabel SAP_minusDOX_H3K27me3_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/22_SAP_minusDOX_H3K27me3_Rep1_S22_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K36me3_Rep1_S23
+shortLabel SAP_minusDOX_H3K36me3_Rep1
+longLabel SAP_minusDOX_H3K36me3_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/23_SAP_minusDOX_H3K36me3_Rep1_S23_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K79me2_Rep1_S24
+shortLabel SAP_minusDOX_H3K79me2_Rep1
+longLabel SAP_minusDOX_H3K79me2_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/24_SAP_minusDOX_H3K79me2_Rep1_S24_bowtie2_raw.bw
+
+track SAP_minusDOX_RLoop_Rep1_S25
+shortLabel SAP_minusDOX_RLoop_Rep1
+longLabel SAP_minusDOX_RLoop_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/25_SAP_minusDOX_RLoop_Rep1_S25_bowtie2_raw.bw 
+
+track SAP_minusDOX_PolII_Rep1_S26
+shortLabel SAP_minusDOX_PolII_Rep1
+longLabel SAP_minusDOX_PolII_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/26_SAP_minusDOX_PolII_Rep1_S26_bowtie2_raw.bw
+
+track SAP_minusDOX_IgG_Rep1_S27
+shortLabel SAP_minusDOX_IgG_Rep1
+longLabel SAP_minusDOX_IgG_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/27_SAP_minusDOX_IgG_Rep1_S27_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K27ac_Rep1_S28
+shortLabel SAP_plusDOX_H3K27ac_Rep1
+longLabel SAP_plusDOX_H3K27ac_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/28_SAP_plusDOX_H3K27ac_Rep1_S28_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K27me3_Rep1_S29
+shortLabel SAP_plusDOX_H3K27me3_Rep1
+longLabel SAP_plusDOX_H3K27me3_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/29_SAP_plusDOX_H3K27me3_Rep1_S29_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K36me3_Rep1_S30
+shortLabel SAP_plusDOX_H3K36me3_Rep1
+longLabel SAP_plusDOX_H3K36me3_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/30_SAP_plusDOX_H3K36me3_Rep1_S30_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K79me2_Rep1_S31
+shortLabel SAP_plusDOX_H3K79me2_Rep1
+longLabel SAP_plusDOX_H3K79me2_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/31_SAP_plusDOX_H3K79me2_Rep1_S31_bowtie2_raw.bw
+
+track SAP_plusDOX_RLoop_Rep1_S32
+shortLabel SAP_plusDOX_RLoop_Rep1
+longLabel SAP_plusDOX_RLoop_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/32_SAP_plusDOX_RLoop_Rep1_S32_bowtie2_raw.bw
+
+track SAP_plusDOX_PolII_Rep1_S33
+shortLabel SAP_plusDOX_PolII_Rep1
+longLabel SAP_plusDOX_PolII_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/33_SAP_plusDOX_PolII_Rep1_S33_bowtie2_raw.bw
+
+track SAP_plusDOX_IgG_Rep1_S34
+shortLabel SAP_plusDOX_IgG_Rep1
+longLabel SAP_plusDOX_IgG_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/34_SAP_plusDOX_IgG_Rep1_S34_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K27ac_Rep2_S35
+shortLabel SAP_minusDOX_H3K27ac_Rep2
+longLabel SAP_minusDOX_H3K27ac_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/35_SAP_minusDOX_H3K27ac_Rep2_S35_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K27me3_Rep2_S36
+shortLabel SAP_minusDOX_H3K27me3_Rep2
+longLabel SAP_minusDOX_H3K27me3_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/36_SAP_minusDOX_H3K27me3_Rep2_S36_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K36me3_Rep2_S37
+shortLabel SAP_minusDOX_H3K36me3_Rep2
+longLabel SAP_minusDOX_H3K36me3_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/37_SAP_minusDOX_H3K36me3_Rep2_S37_bowtie2_raw.bw
+
+track SAP_minusDOX_H3K79me2_Rep2_S38
+shortLabel SAP_minusDOX_H3K79me2_Rep2
+longLabel SAP_minusDOX_H3K79me2_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/38_SAP_minusDOX_H3K79me2_Rep2_S38_bowtie2_raw.bw
+
+track SAP_minusDOX_RLoop_Rep2_S39
+shortLabel SAP_minusDOX_RLoop_Rep2
+longLabel SAP_minusDOX_RLoop_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/39_SAP_minusDOX_RLoop_Rep2_S39_bowtie2_raw.bw
+
+track SAP_minusDOX_PolII_Rep2_S40
+shortLabel SAP_minusDOX_PolII_Rep2
+longLabel SAP_minusDOX_PolII_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/40_SAP_minusDOX_PolII_Rep2_S40_bowtie2_raw.bw
+
+track SAP_minusDOX_IgG_Rep2_S41
+shortLabel SAP_minusDOX_IgG_Rep2
+longLabel SAP_minusDOX_IgG_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/41_SAP_minusDOX_IgG_Rep2_S41_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K27ac_Rep2_S42
+shortLabel SAP_plusDOX_H3K27ac_Rep2
+longLabel SAP_plusDOX_H3K27ac_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/42_SAP_plusDOX_H3K27ac_Rep2_S42_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K27me3_Rep2_S43
+shortLabel SAP_plusDOX_H3K27me3_Rep2
+longLabel SAP_plusDOX_H3K27me3_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/43_SAP_plusDOX_H3K27me3_Rep2_S43_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K36me3_Rep2_S44
+shortLabel SAP_plusDOX_H3K36me3_Rep2
+longLabel SAP_plusDOX_H3K36me3_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/44_SAP_plusDOX_H3K36me3_Rep2_S44_bowtie2_raw.bw
+
+track SAP_plusDOX_H3K79me2_Rep2_S45
+shortLabel SAP_plusDOX_H3K79me2_Rep2
+longLabel SAP_plusDOX_H3K79me2_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/45_SAP_plusDOX_H3K79me2_Rep2_S45_bowtie2_raw.bw
+
+track SAP_plusDOX_RLoop_Rep2_S46
+shortLabel SAP_plusDOX_RLoop_Rep2
+longLabel SAP_plusDOX_RLoop_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/46_SAP_plusDOX_RLoop_Rep2_S46_bowtie2_raw.bw
+
+track SAP_plusDOX_PolII_Rep2_S47
+shortLabel SAP_plusDOX_PolII_Rep2
+longLabel SAP_plusDOX_PolII_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/47_SAP_plusDOX_PolII_Rep2_S47_bowtie2_raw.bw
+
+track SAP_plusDOX_IgG_Rep2_S48
+shortLabel SAP_plusDOX_IgG_Rep2
+longLabel SAP_plusDOX_IgG_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/48_SAP_plusDOX_IgG_Rep2_S48_bowtie2_raw.bw

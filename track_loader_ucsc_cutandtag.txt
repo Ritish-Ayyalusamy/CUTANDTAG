@@ -1,7 +1,16 @@
 hub hg38
-shortLabel hg38_ncc
-longLabel hg38 ncc datasets
+shortLabel hg38_cutandtag
+longLabel hg38 cutandtag
 useOneFile on
-email akram.mendez@gu.se
+email ritish.ayyalusamy@gu.se
 
 genome hg38
+
+track BE2_DMSO_H3K27ac_S1
+shortLabel BE2_DMSO_H3K27ac
+longLabel BE2_DMSO_H3K27ac
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2023-22-153/cutandtag/01_BE2_DMSO_H3K27ac_S1_bowtie2_raw.bw

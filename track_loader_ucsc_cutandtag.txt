@@ -1,0 +1,7 @@
+hub hg38
+shortLabel hg38_ncc
+longLabel hg38 ncc datasets
+useOneFile on
+email akram.mendez@gu.se
+
+genome hg38

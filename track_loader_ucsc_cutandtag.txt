@@ -1,6 +1,6 @@
-hub hg38
+hub cutandtagSAP
 shortLabel hg38_cutandtag
-longLabel hg38_cutandtag
+longLabel hg38_cutandtag in BE2_DMSO_STM tNCC SAP +- Dox
 useOneFile on
 email ritish.ayyalusamy@gu.se
 
